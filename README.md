@@ -1,6 +1,13 @@
 <div align="center">
   
-  ### Hi there 👋. I'm Rui Araújo. 
+  ### Hi there 👋. Nice to see you.
+  
+  Welcome to my page!
+  
+  I'm Rui, Front-end developer from  Arcos de Valdevez, Portugal.
+  
+  
+  <img width="500em" src="https://github-readme-streak-stats.herokuapp.com?user=ruiaraujo012&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&border=DB952B&ring=DB952B&currStreakLabel=DB952B&background=FFFFFF00&fire=DB952B00"/>
   
 </div>
 
@@ -9,14 +16,14 @@
 <div align="center">
   <img width="500em" src="https://github-readme-stats.vercel.app/api?username=ruiaraujo012&theme=slateorange&border_radius=20&border_color=db952b&show_icons=true&include_all_commits=true&count_private=true"/>
   <img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruiaraujo012&layout=compact&langs_count=6&theme=slateorange&border_radius=20&border_color=db952b&exclude-repo=trademon-frontend,trademon-backend,Populate-DB-Trademon,trademon-database,DWEB_18-19,CLAV&hide=objective-c,ruby,starlark"/>
-    <img width="500em" src="https://github-readme-stats.vercel.app/api/wakatime?username=@ruiaraujo012&theme=slateorange&border_radius=20&border_color=db952b"/>
+  <img width="500em" src="https://github-readme-stats.vercel.app/api/wakatime?username=@ruiaraujo012&theme=slateorange&border_radius=20&border_color=db952b"/>
 </div>
 
 ***
 
 <div align="center">
   
-  ###### Frameworks & Tecnologies:
+  ###### Frameworks & Technologies:
   
 </div>
 
