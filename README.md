@@ -2,10 +2,9 @@
   
   ### Hi there 👋. Nice to see you.
   
-  Welcome to my page!
-  
   I'm Rui, Front-end developer from  Arcos de Valdevez, Portugal.
   
+  I'm also a big fan of React 😎.
   
   <img width="500em" src="https://github-readme-streak-stats.herokuapp.com?user=ruiaraujo012&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&border=DB952B&ring=DB952B&currStreakLabel=DB952B&background=FFFFFF00&fire=DB952B00"/>
   
