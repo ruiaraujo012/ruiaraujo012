@@ -2,7 +2,7 @@
   
   ### Hi there 👋. Nice to see you.
   
-  I'm Rui, Front-end developer from  Arcos de Valdevez, Portugal.
+  I'm Rui, Front-end developer from  Ponte de Lima, Portugal.
   
   I'm also a big fan of React 😎.
   
